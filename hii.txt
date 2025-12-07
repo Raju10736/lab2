@@ -1,2 +1,6 @@
 hii github
+ HEAD
 master branch edit
+feature branch
+feature-branch conficting edit
+ feature-branch
